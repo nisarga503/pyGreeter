@@ -8,7 +8,7 @@ HEIGHT = 500
 CELL = 20
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("🐍 Snake Game")
+pygame.display.set_caption(" Snake Game")
 
 clock = pygame.time.Clock()
 
